@@ -21,11 +21,11 @@ figcaption {
   font-size: 11;
   text-align: center;
 }
-p#featured-property{
+#featured-property p{
   width: 800px;
   text-align: center;
 }
-.details {
+#details {
   display: block;
 }
 div {
