@@ -7,7 +7,10 @@ header {
   text-align: center;
 }
 img {
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 a {
   padding-left: 10px;
@@ -19,10 +22,7 @@ figcaption {
   text-align: center;
 }
 .details {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+
 }
 div {
   background-color: red;
