@@ -21,6 +21,9 @@ figcaption {
   font-size: 11;
   text-align: center;
 }
+.featured-property p{
+  width = 800px
+}
 .details {
   display: block;
 }
