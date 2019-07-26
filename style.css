@@ -22,10 +22,11 @@ figcaption {
   text-align: center;
 }
 .details {
-
+  display: block;
 }
 div {
   background-color: red;
   text-align: center;
   width: 25%;
+  float: left;
 }
