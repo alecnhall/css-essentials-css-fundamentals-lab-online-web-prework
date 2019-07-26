@@ -4,10 +4,10 @@ body {
   margin: 0;
 }
 header {
-  align-content: center;
+  align-items: center;
 }
 img {
-  align-content: center;
+  align-items: center;
 }
 a {
   padding-left: 10px;
