@@ -18,6 +18,6 @@ figcaption {
   font-size: 11;
   text-align: center;
 }
-#details {
+.details {
   display: block;
 }
